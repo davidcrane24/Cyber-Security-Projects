@@ -9,4 +9,4 @@ Project 2 - Exploiting Vulnerabilities in a Web Application, Linux Server, and W
 Project 3 - Building a Security Monitoring Enviroment in Splunk
           - Powerpoint & Report
 
-Project 4 - Metasploitable3 ProFTPD & SMB Exploit
+Project 4 - Metasploitable3 ProFTPD & SMB Exploit - Powerpoint
