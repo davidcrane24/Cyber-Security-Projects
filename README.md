@@ -11,6 +11,7 @@ Project 3 - Building a Security Monitoring Enviroment in Splunk
 
 Project 4 - Metasploitable3 ProFTPD & SMB Exploit - Powerpoint
 
-*Attached is a screenshot of the grades I received from the UCLA Cyber Security Program
+*Attached is a screenshot of the grades I received from the UCLA Cyber Security Program,
+as well as my Attendance Record (100%)
 
 *Titled - UCLA Grades
